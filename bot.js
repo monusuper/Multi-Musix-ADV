@@ -6,10 +6,10 @@ const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
      {
-    host: "ll.sleepyinsomniac.eu.org",
-    port: 80, 
-    password: "youshallnotpass", 
-     secure: false
+    host: "lavalink.gglvxd.eu.org",
+    port: 443, 
+    password: "https://dsc.gg/idiotspawnpoint", 
+     secure: true
   },
 ];
 
